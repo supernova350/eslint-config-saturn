@@ -1,0 +1,25 @@
+{
+	"name": "eslint-config-saturn",
+	"version": "1.0.0",
+	"description": "🪐 TypeScript ESLint Shareable Config",
+	"main": "index.js",
+	"keywords": [
+		"eslint",
+		"eslint-config",
+		"eslint-prettier"
+	],
+	"author": "supernova350",
+	"license": "MIT",
+	"publishConfig": {
+		"access": "public"
+	},
+	"dependencies": {
+		"@typescript-eslint/eslint-plugin": "^5.9.1",
+		"@typescript-eslint/parser": "^5.9.1",
+		"eslint-config-prettier": "^8.3.0",
+		"eslint": "^8.6.0"
+	},
+	"devDependencies": {
+		"typescript": "^4.5.4"
+	}
+}
