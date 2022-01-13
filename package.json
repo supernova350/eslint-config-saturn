@@ -1,13 +1,15 @@
 {
 	"name": "eslint-config-saturn",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "🪐 TypeScript ESLint Shareable Config",
 	"main": "index.js",
 	"keywords": [
 		"eslint",
 		"eslint-config",
 		"eslint-prettier",
-		"lint"
+		"lint",
+		"styleguide",
+		"esnext"
 	],
 	"author": "supernova350",
 	"license": "MIT",
