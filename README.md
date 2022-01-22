@@ -1,14 +1,16 @@
 # eslint-config-saturn
 🪐 TypeScript ESLint Shareable Config
 
-## Installation
-`npm i --save-dev eslint-config-saturn`
+---
+
+Automatically adjusts rules based on your Prettier config.
 
 ## Usage
 
-Create a file called `.eslintrc.json` & copy config below
+Create a file called `.eslintrc.json` and copy the following base config:
 ```json
 {
-  "extends": ["saturn"]
+  "extends": ["saturn"],
+  "rules": {}
 }
 ```
